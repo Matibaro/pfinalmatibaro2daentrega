@@ -1,0 +1,33 @@
+
+### `.gitignore`
+
+```gitignore
+# Node modules
+node_modules/
+
+# Compiled CSS
+style.css
+
+# SCSS cache
+*.scssc
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Others
+*.env
+*.sass-cache/
